@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-call-a-doctor/static/css/main.cf75a7e5.chunk.css",
+    "main.js": "/react-call-a-doctor/static/js/main.c52ff68d.chunk.js",
+    "main.js.map": "/react-call-a-doctor/static/js/main.c52ff68d.chunk.js.map",
+    "runtime-main.js": "/react-call-a-doctor/static/js/runtime-main.31a0db7f.js",
+    "runtime-main.js.map": "/react-call-a-doctor/static/js/runtime-main.31a0db7f.js.map",
+    "static/js/2.ebbf5fb8.chunk.js": "/react-call-a-doctor/static/js/2.ebbf5fb8.chunk.js",
+    "static/js/2.ebbf5fb8.chunk.js.map": "/react-call-a-doctor/static/js/2.ebbf5fb8.chunk.js.map",
+    "index.html": "/react-call-a-doctor/index.html",
+    "static/css/main.cf75a7e5.chunk.css.map": "/react-call-a-doctor/static/css/main.cf75a7e5.chunk.css.map",
+    "static/js/2.ebbf5fb8.chunk.js.LICENSE.txt": "/react-call-a-doctor/static/js/2.ebbf5fb8.chunk.js.LICENSE.txt",
+    "static/media/logo.ed8f9d19.svg": "/react-call-a-doctor/static/media/logo.ed8f9d19.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31a0db7f.js",
+    "static/js/2.ebbf5fb8.chunk.js",
+    "static/css/main.cf75a7e5.chunk.css",
+    "static/js/main.c52ff68d.chunk.js"
+  ]
+}
