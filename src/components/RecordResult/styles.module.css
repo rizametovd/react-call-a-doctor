@@ -1,0 +1,22 @@
+.wrapper {
+  background-color: #00a9e0;
+  max-width: 600px;
+  padding: 60px 30px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.title {
+  margin: 0;
+  text-align: center;
+  color: #fff;
+}
+
+.text {
+  text-align: center;
+  display: block;
+  padding-top: 20px;
+  color: #fff;
+}

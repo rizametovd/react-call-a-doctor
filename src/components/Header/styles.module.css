@@ -1,0 +1,15 @@
+.header {
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 768px) {
+  .header {
+    padding: 20px 0;
+  }
+}
