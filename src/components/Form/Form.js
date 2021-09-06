@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import useOutSideComponentClick from '../hooks/useOutSideComponentClick';
 import Suggestions from '../Suggestions/Suggestions';
 import addressValidation from '../../utils/addressValidation';
 import { getAddressSuggestion } from '../../utils/api';
@@ -8,6 +7,7 @@ import { dateValidation } from '../../utils/dateValidation';
 import nameValidation from '../../utils/nameValidation';
 import { getNameAcronym } from '../../utils/translite';
 import styles from './styles.module.css';
+import useOutSideComponentClick from '../../hooks/useOutSideComponentClick';
 
 function Form({ record }) {
   // Стейты связанные с инпутом адреса
