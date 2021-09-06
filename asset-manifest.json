@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-call-a-doctor/static/css/main.cf75a7e5.chunk.css",
-    "main.js": "/react-call-a-doctor/static/js/main.c52ff68d.chunk.js",
-    "main.js.map": "/react-call-a-doctor/static/js/main.c52ff68d.chunk.js.map",
+    "main.js": "/react-call-a-doctor/static/js/main.a963818c.chunk.js",
+    "main.js.map": "/react-call-a-doctor/static/js/main.a963818c.chunk.js.map",
     "runtime-main.js": "/react-call-a-doctor/static/js/runtime-main.31a0db7f.js",
     "runtime-main.js.map": "/react-call-a-doctor/static/js/runtime-main.31a0db7f.js.map",
     "static/js/2.ebbf5fb8.chunk.js": "/react-call-a-doctor/static/js/2.ebbf5fb8.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.31a0db7f.js",
     "static/js/2.ebbf5fb8.chunk.js",
     "static/css/main.cf75a7e5.chunk.css",
-    "static/js/main.c52ff68d.chunk.js"
+    "static/js/main.a963818c.chunk.js"
   ]
 }
